@@ -9,6 +9,7 @@ Full stack tools for monitoring containers and other stuff. ;)
 - Grafana
 - Node_Exporter
 
+https://www.youtube.com/playlist?list=PLf-O3X2-mxDls9uH8gyCQTnyXNMe10iml
 
 # Install Demonstration
 
